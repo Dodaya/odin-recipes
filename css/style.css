@@ -5,29 +5,28 @@
   background-color: rgb(6, 92, 92);
 }
 
-p{
+p {
   text-align: left;
 }
 
-
-.center{
+.center {
   text-align: center;
-  
+
   padding: 1em;
 }
 
-.card.dot{
+.card.dot {
   padding: 1em;
   border: 3px dotted rgb(223, 226, 21);
   margin: 1em auto;
   width: 20em;
 }
 
-.card.inline{
- padding: 10px 10px ;.
- display: inline-block; 
+.card.inline {
+  padding: 10px 10px;
+  display: inline-block;
 }
 
-li{
+li {
   list-style-position: inside;
 }
